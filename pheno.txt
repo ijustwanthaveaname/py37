@@ -1,0 +1,26 @@
+	diagnosis	tissue
+Down Syndrome-Astrocyte-1478-1-U133A.CEL	DownSyndrome	Astrocyte
+Down Syndrome-Astrocyte-748-1-U133A.CEL	DownSyndrome	Astrocyte
+Down Syndrome-Cerebellum-1218-1-U133A.CEL	DownSyndrome	Cerebellum
+Down Syndrome-Cerebellum-1389-1-U133A.CEL	DownSyndrome	Cerebellum
+Down Syndrome-Cerebellum-1478-1-U133A.CEL	DownSyndrome	Cerebellum
+Down Syndrome-Cerebrum-1218-1-U133A.CEL	DownSyndrome	Cerebellum
+Down Syndrome-Cerebrum-1389-1-U133A.CEL	DownSyndrome	Cerebellum
+Down Syndrome-Cerebrum-1478-1-U133A.CEL	DownSyndrome	Cerebellum
+Down Syndrome-Cerebrum-847-1-U133A.CEL	DownSyndrome	Cerebellum
+Down Syndrome-Heart-1218-1-U133A.CEL	DownSyndrome	Heart
+Down Syndrome-Heart-1478-1-U133A.CEL	DownSyndrome	Heart
+Normal-Astrocyte-1479-1-U133A.CEL	Euploid	Astrocyte
+Normal-Astrocyte-1521-1-U133A.CEL	Euploid	Astrocyte
+Normal-Cerebellum-1390-1-U133A.CEL	Euploid	Cerebellum
+Normal-Cerebellum-1411-1-U133A.CEL	Euploid	Cerebellum
+Normal-Cerebellum-1521-1-U133A.CEL	Euploid	Cerebellum
+Normal-Cerebrum-1390-1-U133A.CEL	Euploid	Cerebrum
+Normal-Cerebrum-1390-2-U133A.CEL	Euploid	Cerebrum
+Normal-Cerebrum-1411-1-U133A.CEL	Euploid	Cerebrum
+Normal-Cerebrum-1411-2-U133A.CEL	Euploid	Cerebrum
+Normal-Cerebrum-1521-1-U133A.CEL	Euploid	Cerebrum
+Normal-Cerebrum-1521-2-U133A.CEL	Euploid	Cerebrum
+Normal-Cerebrum-1565-1-U133A.CEL	Euploid	Cerebrum
+Normal-Heart-1390-1-U133A.CEL	Euploid	Heart
+Normal-Heart-1411-1-U133A.CEL	Euploid	Heart

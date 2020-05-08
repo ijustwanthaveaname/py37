@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02b39dfb-9185-42e1-9774-3206369c24a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="py37" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="fb3315aa-0dff-4f30-b408-d010ad67a7c6" />
+  <component name="ProjectId" id="1Vo2lClwUPYIoobHfvU5du5UYB1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm 2019.3.1\py37\数据结构与算法\第一章" />
+      <recent name="D:\PyCharm 2019.3.1\py37\python入门到实践" />
+      <recent name="D:\PyCharm 2019.3.1\py37\数据分析练习" />
+      <recent name="D:\PyCharm 2019.3.1\py37" />
+      <recent name="D:\PyCharm 2019.3.1\py37\热图" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.P-1.31">
+    <configuration name="指定基因名，路径提取序列" type="PythonConfigurationType" factoryName="Python">
+      <module name="py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nmsl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C-1.26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/第一章/C-1.26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C-1.27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/第一章/C-1.27.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C-1.28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/第一章/C-1.28.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P-1.29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/第一章/P-1.29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P-1.31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构与算法/第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构与算法/第一章/P-1.31.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="py37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.P-1.31" />
+        <item itemvalue="Python.P-1.29" />
+        <item itemvalue="Python.C-1.28" />
+        <item itemvalue="Python.C-1.27" />
+        <item itemvalue="Python.C-1.26" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="02b39dfb-9185-42e1-9774-3206369c24a5" name="Default Changelist" comment="" />
+      <created>1577905275009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577939217088</updated>
+      <workItem from="1577905282070" duration="810000" />
+      <workItem from="1577939078879" duration="48000" />
+      <workItem from="1577939135871" duration="2000" />
+      <workItem from="1577939157673" duration="60000" />
+    </task>
+    <task active="true" id="LOCAL-00001" summary="1">
+      <created>1577939214712</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577939217088</updated>
+      <workItem from="1577939217723" duration="881000" />
+      <workItem from="1578035054332" duration="622000" />
+      <workItem from="1578411897047" duration="743000" />
+      <workItem from="1578413024723" duration="872000" />
+      <workItem from="1578466750163" duration="610000" />
+      <workItem from="1578480865962" duration="32000" />
+      <workItem from="1578548993109" duration="318000" />
+      <workItem from="1578549318758" duration="9123000" />
+      <workItem from="1578558850275" duration="2139000" />
+      <workItem from="1578561126487" duration="27189000" />
+      <workItem from="1578597533265" duration="292000" />
+      <workItem from="1578629992115" duration="14000" />
+      <workItem from="1578666081991" duration="4142000" />
+      <workItem from="1578671341393" duration="1037000" />
+      <workItem from="1578673913254" duration="1464000" />
+      <workItem from="1578677416410" duration="5935000" />
+      <workItem from="1578683447398" duration="1712000" />
+      <workItem from="1578723113167" duration="674000" />
+      <workItem from="1578769511995" duration="877000" />
+      <workItem from="1579003115205" duration="766000" />
+      <workItem from="1579148774715" duration="3399000" />
+      <workItem from="1579154187221" duration="2148000" />
+      <workItem from="1579237160560" duration="50000" />
+      <workItem from="1579245571074" duration="652000" />
+      <workItem from="1579779786970" duration="10641000" />
+      <workItem from="1579838502243" duration="25000" />
+      <workItem from="1579878018914" duration="4841000" />
+      <workItem from="1579887151431" duration="407000" />
+      <workItem from="1579888995826" duration="138000" />
+      <workItem from="1579890339694" duration="21000" />
+      <workItem from="1579891280067" duration="111000" />
+      <workItem from="1579891403871" duration="161000" />
+      <workItem from="1579891575810" duration="1794000" />
+      <workItem from="1579893398474" duration="5000" />
+      <workItem from="1579893413438" duration="9000" />
+      <workItem from="1579964210289" duration="3256000" />
+      <workItem from="1579967957889" duration="9000" />
+      <workItem from="1579967974883" duration="601000" />
+      <workItem from="1580021608791" duration="34000" />
+      <workItem from="1580048141707" duration="2232000" />
+      <workItem from="1580101565375" duration="2886000" />
+      <workItem from="1580189719693" duration="4000" />
+      <workItem from="1580189749039" duration="2000" />
+      <workItem from="1580389232655" duration="2701000" />
+      <workItem from="1580412445130" duration="131000" />
+      <workItem from="1580478916590" duration="4473000" />
+      <workItem from="1580560113974" duration="6306000" />
+      <workItem from="1580571473731" duration="1559000" />
+      <workItem from="1580574789274" duration="1248000" />
+      <workItem from="1580653019247" duration="2556000" />
+      <workItem from="1580741807470" duration="1374000" />
+      <workItem from="1580757711850" duration="296000" />
+      <workItem from="1580827884543" duration="2224000" />
+      <workItem from="1580906388131" duration="3326000" />
+      <workItem from="1580916997260" duration="527000" />
+      <workItem from="1580995183791" duration="2920000" />
+      <workItem from="1581166630411" duration="253000" />
+      <workItem from="1581166894763" duration="4301000" />
+      <workItem from="1581250804273" duration="6751000" />
+      <workItem from="1581343747279" duration="1748000" />
+      <workItem from="1581430061190" duration="3236000" />
+      <workItem from="1581511503952" duration="3669000" />
+      <workItem from="1581582640725" duration="2147000" />
+      <workItem from="1581601573797" duration="628000" />
+      <workItem from="1581687890852" duration="843000" />
+      <workItem from="1581927257301" duration="6376000" />
+      <workItem from="1581940361890" duration="638000" />
+      <workItem from="1581941959980" duration="1295000" />
+      <workItem from="1581955733764" duration="633000" />
+      <workItem from="1582207999595" duration="757000" />
+      <workItem from="1582797525229" duration="43000" />
+      <workItem from="1582797584168" duration="16000" />
+      <workItem from="1583223384561" duration="6400000" />
+      <workItem from="1583250853858" duration="1390000" />
+      <workItem from="1583252275911" duration="543000" />
+      <workItem from="1583351632922" duration="719000" />
+      <workItem from="1583393104807" duration="707000" />
+      <workItem from="1583399948379" duration="696000" />
+      <workItem from="1583413437569" duration="2642000" />
+      <workItem from="1583416095499" duration="1434000" />
+      <workItem from="1583426134108" duration="3103000" />
+      <workItem from="1583524256872" duration="1146000" />
+      <workItem from="1583525415941" duration="1027000" />
+      <workItem from="1583561419403" duration="5050000" />
+      <workItem from="1583756289318" duration="147000" />
+      <workItem from="1584100090008" duration="15000" />
+      <workItem from="1584263209083" duration="59000" />
+      <workItem from="1584298103610" duration="179000" />
+      <workItem from="1584298293295" duration="27000" />
+      <workItem from="1584298328940" duration="41000" />
+      <workItem from="1584298379297" duration="44000" />
+      <workItem from="1584298430786" duration="30000" />
+      <workItem from="1584367346708" duration="98000" />
+      <workItem from="1584367452958" duration="49000" />
+      <workItem from="1584367509903" duration="67000" />
+      <workItem from="1584367586205" duration="17000" />
+      <workItem from="1584432949218" duration="435000" />
+      <workItem from="1584433404045" duration="1275000" />
+      <workItem from="1584495057541" duration="66000" />
+      <workItem from="1584495133557" duration="5000" />
+      <workItem from="1584521027317" duration="5830000" />
+      <workItem from="1584688651548" duration="599000" />
+      <workItem from="1584868460159" duration="802000" />
+      <workItem from="1584869705830" duration="66000" />
+      <workItem from="1584869901647" duration="3771000" />
+      <workItem from="1584957583841" duration="266000" />
+      <workItem from="1585029686501" duration="20000" />
+      <workItem from="1585042724617" duration="636000" />
+      <workItem from="1585316547902" duration="13389000" />
+      <workItem from="1585373917020" duration="2221000" />
+      <workItem from="1585397937333" duration="1092000" />
+      <workItem from="1585576123772" duration="52000" />
+      <workItem from="1585635047076" duration="630000" />
+      <workItem from="1585636867096" duration="733000" />
+      <workItem from="1585839221535" duration="47000" />
+      <workItem from="1585839276837" duration="4000" />
+      <workItem from="1585922964516" duration="1587000" />
+      <workItem from="1585924562102" duration="2792000" />
+      <workItem from="1586010072371" duration="764000" />
+      <workItem from="1586251578618" duration="121000" />
+      <workItem from="1586263095059" duration="13000" />
+      <workItem from="1586263117575" duration="62000" />
+      <workItem from="1586267265647" duration="2857000" />
+      <workItem from="1586352648556" duration="1860000" />
+      <workItem from="1586354595374" duration="5000" />
+      <workItem from="1586354731836" duration="104000" />
+      <workItem from="1586354911567" duration="29000" />
+      <workItem from="1587212484276" duration="13583000" />
+      <workItem from="1587243190431" duration="599000" />
+      <workItem from="1587274938984" duration="1381000" />
+      <workItem from="1587303661018" duration="241000" />
+      <workItem from="1587303935691" duration="1400000" />
+      <workItem from="1587392467590" duration="1394000" />
+      <workItem from="1587412487084" duration="920000" />
+      <workItem from="1587450103552" duration="5000" />
+      <workItem from="1587450117522" duration="53000" />
+      <workItem from="1587476497810" duration="305000" />
+      <workItem from="1587477677282" duration="386000" />
+      <workItem from="1587478091426" duration="1141000" />
+      <workItem from="1587493061757" duration="3899000" />
+      <workItem from="1587717149994" duration="2927000" />
+      <workItem from="1587806722801" duration="1884000" />
+      <workItem from="1587880303381" duration="318000" />
+      <workItem from="1587880674717" duration="699000" />
+      <workItem from="1587979806152" duration="733000" />
+      <workItem from="1588070998489" duration="2775000" />
+      <workItem from="1588148878653" duration="4073000" />
+      <workItem from="1588233970165" duration="3207000" />
+      <workItem from="1588322018717" duration="2421000" />
+      <workItem from="1588408104565" duration="72000" />
+      <workItem from="1588408187240" duration="2984000" />
+      <workItem from="1588494253468" duration="2925000" />
+      <workItem from="1588497215652" duration="849000" />
+      <workItem from="1588579819647" duration="5486000" />
+      <workItem from="1588597663574" duration="83000" />
+      <workItem from="1588667402847" duration="4632000" />
+      <workItem from="1588675401169" duration="1444000" />
+      <workItem from="1588753217935" duration="5169000" />
+      <workItem from="1588839560663" duration="4029000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="143" key="#Deployment" timestamp="1580571554885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="143" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1580571554885" />
+    <state x="470" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588597691393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588597691393" />
+    <state x="0" y="166" key="#xdebugger.XInspectDialog" timestamp="1581583492264">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="166" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1581583492264" />
+    <state x="859" y="180" key="FileChooserDialogImpl" timestamp="1586353929152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="859" y="180" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586353929152" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1588675391475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588675391475" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1588675391473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588675391473" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1588675391473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588675391473" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1588675391474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588675391474" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1588675391476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588675391476" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1588675391476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588675391476" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1588675391475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588675391475" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1588675391476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588675391476" />
+    <state x="162" y="49" width="996" height="775" key="SettingsEditor" timestamp="1588579953608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="162" y="49" width="996" height="775" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588579953608" />
+    <state width="500" height="446" key="SwitcherDM" timestamp="1582208476058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="500" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1582208476058" />
+    <state x="560" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582208288891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1582208288891" />
+    <state x="321" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587240011589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1587240011589" />
+    <state x="447" y="11" width="782" height="801" key="find.popup" timestamp="1581345458412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="11" width="782" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581345458412" />
+    <state x="509" y="301" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1587214663619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="301" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1587214663619" />
+    <state x="566" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1588588953667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588588953667" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py37$.coverage" NAME="地质年代表 Coverage Results" MODIFIED="1583526026302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py37$C_1_20.coverage" NAME="C-1.20 Coverage Results" MODIFIED="1588675287579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构与算法/第一章" />
+    <SUITE FILE_PATH="coverage/py37$nmsl.coverage" NAME="nmsl Coverage Results" MODIFIED="1578413687981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py37$gene_drift.coverage" NAME="gene drift Coverage Results" MODIFIED="1584869762396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py37$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1586269445451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python入门到实践" />
+    <SUITE FILE_PATH="coverage/py37$biopythonID.coverage" NAME="biopython根据序列ID提取序列 Coverage Results" MODIFIED="1587224506092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biopython练习" />
+    <SUITE FILE_PATH="coverage/py37$biopythongenewise.coverage" NAME="biopython去genewise冗余 Coverage Results" MODIFIED="1587240273481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biopython练习" />
+    <SUITE FILE_PATH="coverage/py37$heatmap2__1_.coverage" NAME="heatmap2 (1) Coverage Results" MODIFIED="1579892152883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/热图" />
+    <SUITE FILE_PATH="coverage/py37$biopythonblast.coverage" NAME="biopython之blast分析 Coverage Results" MODIFIED="1585325591995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biopython练习" />
+    <SUITE FILE_PATH="coverage/py37$test.coverage" NAME="test Coverage Results" MODIFIED="1579892057101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

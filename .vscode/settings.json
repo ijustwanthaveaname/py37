@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "D:\\anaconda\\envs\\py37\\python.exe",
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.executeInFileDir": true
+}

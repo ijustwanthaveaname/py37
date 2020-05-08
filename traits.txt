@@ -1,0 +1,6 @@
+ID	tails
+...sortdata.sorted_SRR2803256.bam	0
+...sortdata.sorted_SRR2803257.bam	1
+...sortdata.sorted_SRR2803258.bam	1
+...sortdata.sorted_SRR2803259.bam   1
+...sortdata.sorted_SRR2803260.bam	0
