@@ -1,5 +1,4 @@
-def name(*names):
-    print(names)
-
-if __name__ == '__main__':
-    name('a'+'b')
+class test:
+    i=100
+    def fuckyou(self):
+        return test.i

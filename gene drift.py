@@ -4,7 +4,7 @@ plt.figure(figsize=(10,8),dpi=80)
 for a in [i for i in range(1,50)]:
     initial = ['A1'] * 10 + ['A2'] * 10
     frequency = []
-    times = [i for i in range(1, 50)]
+    times = [i for i in range(1, 100)]
     for i in times:
         next_generation = []
         while len(next_generation)<20:
